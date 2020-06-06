@@ -1,6 +1,7 @@
 # Perdicto-An-IPL-Score-Predicter
 
-1.) INTRODUCTION
+1.) INTRODUCTION TO THE SOFTWARE
+
 This basic score predictor named as Predicto uses the pas records across the 1st 10 seasons on IPL to predict the final score of the current game based on current situation.
 This software is based on Random Forest Regression Model and uses the following factors to determine the final score :
   a.) Current Score
