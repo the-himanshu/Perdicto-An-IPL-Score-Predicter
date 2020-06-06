@@ -2,7 +2,7 @@
 
 1.) INTRODUCTION TO THE SOFTWARE
 
-This basic score predictor named as Predicto uses the pas records across the 1st 10 seasons on IPL to predict the final score of the current game based on current situation.
+This basic score predictor named as Predicto uses the pas records across the 1st 10 seasons on IPL to predict the final score of the current game based on current situation. It is bascically a project based on Machine Learning. 
 
 This software is based on Random Forest Regression Model and uses the following factors to determine the final score :
   
@@ -25,3 +25,5 @@ The working of this application is quite simple. You just have to input the data
 However you need to be extremely cautious while entering the data as the logic of this software is case sensetive.
 
 If somehow you enter the wrong data then a warning label will show up at the bottom of the screen.
+
+Also to run this software in yo pc you need to have numpy and pandas module installed.
